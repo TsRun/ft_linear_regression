@@ -15,7 +15,7 @@ Pour installer ce projet, suivez les étapes ci-dessous :
 
 1. **Clonez le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/ft_linear_regression.git
+   git clone https://github.com/TsRun/ft_linear_regression.git
    cd ft_linear_regression
 ```
  
