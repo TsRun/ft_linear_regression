@@ -9,11 +9,10 @@ def main():
     load_dotenv()
     env = os.getenv("PWD")
     try:
-        with open(f'{env}/data/gradiant.json') as f:
+        with open(f'{env}/data/gradient.json') as f:
             data = json.load(f)  # Utiliser json.load() pour charger le contenu du fichier
             T0, T1 = map(float, (data['T0'], data['T1']))  # Convertir en float
     except Exception as e:
-        print(e)
         T0 = T1 = 0.0  # Initialiser en float
     try:
         while True:
