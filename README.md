@@ -14,18 +14,18 @@ Ce projet vous introduit aux concepts fondamentaux de l'apprentissage automatiqu
 Pour installer ce projet, suivez les étapes ci-dessous :
 
 1. **Clonez le dépôt :**
-   ```bash
-   git clone https://github.com/TsRun/ft_linear_regression.git
-   cd ft_linear_regression
-   ```
+```bash
+git clone https://github.com/TsRun/ft_linear_regression.git
+cd ft_linear_regression
+```
  
 2. **Installez les dépendances :** 
 
 Assurez-vous d'avoir Python 3 et pip installés. Ensuite, exécutez :
 
-   ```bash
-   pip install -r requirement.txt
-   ```
+```bash
+pip install -r requirement.txt
+```
 
 ## Structure du projet 
 
