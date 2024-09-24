@@ -19,7 +19,8 @@ Pour installer ce projet, suivez les étapes ci-dessous :
    cd ft_linear_regression
 ```
  
-1. **Installez les dépendances :** 
+2. **Installez les dépendances :** 
+
 Assurez-vous d'avoir Python 3 et pip installés. Ensuite, exécutez :
 
 ```bash
