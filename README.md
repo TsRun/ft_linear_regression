@@ -23,7 +23,7 @@ Pour installer ce projet, suivez les étapes ci-dessous :
 
 Assurez-vous d'avoir Python 3 et pip installés. Ensuite, exécutez :
 
-```bash
+   ```bash
 pip install -r requirement.txt
 ```
 
