@@ -17,15 +17,15 @@ Pour installer ce projet, suivez les étapes ci-dessous :
    ```bash
    git clone https://github.com/TsRun/ft_linear_regression.git
    cd ft_linear_regression
-```
+   ```
  
 2. **Installez les dépendances :** 
 
 Assurez-vous d'avoir Python 3 et pip installés. Ensuite, exécutez :
 
    ```bash
-pip install -r requirement.txt
-```
+   pip install -r requirement.txt
+   ```
 
 ## Structure du projet 
 
